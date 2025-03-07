@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: scouter-web-test-server
+  jackson:
+    serialization:
+      indent_output: true
+
+
+server:
+  port: 8080
+
