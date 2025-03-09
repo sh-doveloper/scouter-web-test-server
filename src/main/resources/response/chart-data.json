@@ -1,0 +1,125 @@
+{
+  "dailyMergeCount": 30,
+  "dailyMergeCounts": [
+    {
+      "mergeDate": "2025-01-01",
+      "mergeCount": 100
+    },
+    {
+      "mergeDate": "2025-01-02",
+      "mergeCount": 200
+    },
+    {
+      "mergeDate": "2025-01-03",
+      "mergeCount": 300
+    },
+    {
+      "mergeDate": "2025-01-04",
+      "mergeCount": 400
+    },
+    {
+      "mergeDate": "2025-01-05",
+      "mergeCount": 500
+    },
+    {
+      "mergeDate": "2025-01-06",
+      "mergeCount": 600
+    },
+    {
+      "mergeDate": "2025-01-07",
+      "mergeCount": 700
+    },
+    {
+      "mergeDate": "2025-01-08",
+      "mergeCount": 1000
+    },
+    {
+      "mergeDate": "2025-01-09",
+      "mergeCount": 410
+    },
+    {
+      "mergeDate": "2025-01-10",
+      "mergeCount": 360
+    },
+    {
+      "mergeDate": "2025-01-11",
+      "mergeCount": 170
+    },
+    {
+      "mergeDate": "2025-01-12",
+      "mergeCount": 330
+    },
+    {
+      "mergeDate": "2025-01-13",
+      "mergeCount": 10
+    },
+    {
+      "mergeDate": "2025-01-14",
+      "mergeCount": 460
+    },
+    {
+      "mergeDate": "2025-01-15",
+      "mergeCount": 430
+    },
+    {
+      "mergeDate": "2025-01-16",
+      "mergeCount": 300
+    },
+    {
+      "mergeDate": "2025-01-17",
+      "mergeCount": 470
+    },
+    {
+      "mergeDate": "2025-01-18",
+      "mergeCount": 150
+    },
+    {
+      "mergeDate": "2025-01-19",
+      "mergeCount": 340
+    },
+    {
+      "mergeDate": "2025-01-20",
+      "mergeCount": 0
+    },
+    {
+      "mergeDate": "2025-01-21",
+      "mergeCount": 260
+    },
+    {
+      "mergeDate": "2025-01-22",
+      "mergeCount": 350
+    },
+    {
+      "mergeDate": "2025-01-23",
+      "mergeCount": 230
+    },
+    {
+      "mergeDate": "2025-01-24",
+      "mergeCount": 190
+    },
+    {
+      "mergeDate": "2025-01-25",
+      "mergeCount": 380
+    },
+    {
+      "mergeDate": "2025-01-26",
+      "mergeCount": 480
+    },
+    {
+      "mergeDate": "2025-01-27",
+      "mergeCount": 310
+    },
+    {
+      "mergeDate": "2025-01-28",
+      "mergeCount": 200
+    },
+    {
+      "mergeDate": "2025-01-29",
+      "mergeCount": 100
+    },
+    {
+      "mergeDate": "2025-01-30",
+      "mergeCount": 70
+    }
+  ]
+}

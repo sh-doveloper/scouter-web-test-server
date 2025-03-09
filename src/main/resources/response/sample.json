@@ -1,0 +1,8 @@
+{
+  "message": "Hello, this is a test API!",
+  "status": 200,
+  "data": {
+    "name": "John Doe",
+    "email": "john.doe@example.com"
+  }
+}
